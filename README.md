@@ -24,3 +24,8 @@ git clone https://github.com/lemon-42/collatzmynim
 ```sh
 nim c -r src/collatzme.nim
 ```
+
+- With [Nimble](https://github.com/nim-lang/nimble) : 
+```sh
+nimble run
+```
